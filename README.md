@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=200&section=header&text=Slow%20and%20steady.&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=200&section=header&text=Steady%20wins.&fontSize=80)
 
 
 <!-- <p align="center">
